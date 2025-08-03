@@ -1,0 +1,1 @@
+rag_word\1.txt ↔ rag_word\2.txt 的相似度：0.6801

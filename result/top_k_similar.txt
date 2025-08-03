@@ -1,0 +1,6 @@
+相对于 rag_word\1.txt 的 Top-5 相似文档：
+rag_word\2.txt 相似度：0.6801
+rag_word\3.txt 相似度：0.6660
+rag_word\location.txt 相似度：0.6035
+rag_word\other.txt 相似度：0.5787
+rag_word\temperture.txt 相似度：0.5367
